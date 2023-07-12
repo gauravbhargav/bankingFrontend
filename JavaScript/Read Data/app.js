@@ -1,11 +1,12 @@
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyBnSrCl0UvzIq1yrDMJ3zsHyLKkuQ_nPvA",
-    authDomain: "asdfadsf-a56e7.firebaseapp.com",
-    databaseURL: "https://asdfadsf-a56e7.firebaseio.com",
-    projectId: "asdfadsf-a56e7",
-    storageBucket: "asdfadsf-a56e7.appspot.com",
-    messagingSenderId: "104313484945"
+    apiKey: "AIzaSyDOQHjCANyj2jqDG18Ml4zNlzaLofpTE_8",
+    authDomain: "banking-f6b66.firebaseapp.com",
+    databaseURL: "https://banking-f6b66-default-rtdb.firebaseio.com",
+    projectId: "banking-f6b66",
+    storageBucket: "banking-f6b66.appspot.com",
+    messagingSenderId: "451619303105",
+    appId: "1:451619303105:web:9d926f559b978073eaae40"
 };
 
 firebase.initializeApp(config);
